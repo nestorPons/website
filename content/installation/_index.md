@@ -101,3 +101,8 @@ sudo dnf update
 sudo dnf install golang git make automake gcc gcc-c++ kernel-devel libpcap-devel libusb-devel libnetfilter_queue-devel
 
 ```
+
+#### Linux Deploy Method ArchLinux based
+```
+sudo pacman -S bettercap
+```
